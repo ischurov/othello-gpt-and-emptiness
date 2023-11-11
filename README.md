@@ -1,1 +1,3 @@
 # othello-gpt-and-emptiness
+- Main notebook is **Othello_GPT_and_emptiness.ipynb**, see [preview with pictures](https://nbviewer.org/github/ischurov/othello-gpt-and-emptiness/blob/main/Othello_GPT_and_emptiness.ipynb)
+- **othello_nb_utils.py** is a helper package heavily based on [this](https://colab.research.google.com/github/likenneth/othello_world/blob/master/Othello_GPT_Circuits.ipynb) tutorial.
